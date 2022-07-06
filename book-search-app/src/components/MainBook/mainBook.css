@@ -1,0 +1,25 @@
+.mainBook{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+gap:2rem;
+padding: 20px;
+}
+
+.book{
+    box-shadow: 0 0 2px 3px rgb(186, 186, 186);
+    /* padding: 10px; */
+}
+
+.img{
+    height: 200px;
+}
+
+.img img{
+    height: 100%;
+    object-fit: cover
+}
+/* 
+.about{
+    margin-left: 10px;
+}
+ */

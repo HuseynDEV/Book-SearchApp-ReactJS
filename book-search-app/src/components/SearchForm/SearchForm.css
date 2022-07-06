@@ -1,0 +1,18 @@
+.search_content{
+    width: 400px;
+    background: white;
+    border-radius: 10px;
+
+}
+
+.search_form{
+    padding: 10px;
+    display: flex;
+    align-items: center;
+
+}
+
+.search_form .search_input{
+    width: 100%;
+    font-size: 20px;
+}

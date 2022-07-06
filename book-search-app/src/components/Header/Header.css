@@ -1,0 +1,21 @@
+.header_content {
+    background: rgba(246, 138, 138, 0.7) url('../../images/main_img.avif');
+    min-height: 70vh;
+    background-blend-mode: darken;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+color:white;
+text-align: center;
+}
+
+.header_title{
+    font-size: 4.2rem;
+}
+.header_text{
+    margin-top: -1.8rem;
+    margin-bottom: 2.8rem;
+    opacity: 0.8;
+    max-width: 770px;
+}
